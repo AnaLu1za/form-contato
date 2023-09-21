@@ -1,6 +1,6 @@
 # Formulário de Contato
 
-![Site]](img/site.png)
+![Site](img/site.png)
 
 # Índice 
 * [Descrição](#descrição-do-projeto)
