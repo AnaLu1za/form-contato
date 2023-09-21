@@ -8,6 +8,8 @@
 
 ## Descrição do Projeto
 Este é um projeto de página web com um formulário de contato. O formulário permite que os usuários insiram informações como o e-mail, assunto e mensagem de texto.
+## Funcionalidade 
+Este projeto pode ser útil em diversos contextos, como comunicação entre clientes e empresas, entregas, ou qualquer outra aplicação que envolva comunicação indireta.
 
 ## Técnicas e tecnologias utilizadas
 * ``HTML5``
