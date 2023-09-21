@@ -16,5 +16,8 @@ Este é um projeto de página web com um formulário de contato. O formulário p
 * ``Git``
 
 ## Fontes Consultadas 
+* [Get Waves](https://getwaves.io/)
+* [Dev Media](https://www.devmedia.com.br/customizando-formularios-com-css/37212)
+* [Mdn WebDocs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 
 ## Autores
