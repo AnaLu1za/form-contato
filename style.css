@@ -1,48 +1,84 @@
-#area
-{
-  position:relative;
-  left:37%;
-  top:29%;
-  width:320px;
-  height:270px;
-}
-#area #formulario
-{
-  position:absolute;
-  display:block;
-}
-fieldset
-{
-  width:300px;
-  height:250px;
+body {
+font-family: sans-serif;
+margin: 0;
+padding: 0;
+background-color: #dfe9f1;
 }
 
 
 
-legend
-{
-  font-style:bold;
-  font-family: "Segoe UI";
+h1 {
+text-align: center;
+margin: 0 0 20px 0;
 }
-#formulario label
-{
-  position:absolute;
-  left:19px;
-  margin-right:5px;
+
+form {
+width: 500px;
+margin: 0 auto;
 }
 
 
-#formulario input.campo_nome
-{
-  position:absolute;
-  left:95px;
-  top:23px;
-  width:225px;
+
+input, textarea {
+width: 100%;
+padding: 10px;
+margin-bottom: 10px;
+border: 1px solid #ccc;
+border-radius: 3px;
 }
-#formulario input.campo_email
-{
-  position:absolute;
-  left:95px;
-  margin-top:2px;
-  width:225px;
+
+
+
+
+
+textarea {
+  height: 140px;
+}
+
+
+
+button {
+width: 100%;
+padding: 10px;
+
+  margin-bottom: 10px;
+
+  background-color: #000;
+
+  color: #fff;
+
+  border: none;
+
+  border-radius: 3px;
+
+  cursor: pointer;
+
+}
+
+
+
+span {
+
+  font-size: smaller;
+
+  color: #1a1919;
+
+}
+
+
+
+svg {
+
+  width: 100%;
+
+  height: auto;
+
+  position: fixed;
+
+  top: 0;
+
+  left: 0;
+
+  z-index: -1;
+
 }
