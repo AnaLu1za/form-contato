@@ -27,3 +27,5 @@ Este projeto pode ser útil em diversos contextos, como comunicação entre clie
 * [Mdn WebDocs](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
 
 ## Autores
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140712280?v=4" width=115><br><sub>Fellipe Gabriel Zanin</sub>](https://github.com/Fell1pe) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140712281?v=4" width=115><br><sub>Ana Luiza Santos</sub>](https://github.com/AnaLu1za) |  
+| :---: | :---: |
