@@ -20,6 +20,7 @@ Este projeto pode ser útil em diversos contextos, como comunicação entre clie
 * ``CSS3``
 * ``VsCode``
 * ``Git``
+* ``GitHub``
 
 ## Fontes Consultadas 
 * [Get Waves](https://getwaves.io/)
