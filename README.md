@@ -14,6 +14,7 @@ Este é um projeto de página web com um formulário de contato. O formulário p
 
 ## Funcionalidade 
 Este projeto pode ser útil em diversos contextos, como comunicação entre clientes e empresas, entregas, ou qualquer outra aplicação que envolva comunicação indireta.
+![Gif](img/gif-readme.gif)
 
 ## Técnicas e tecnologias utilizadas
 * ``HTML5``
